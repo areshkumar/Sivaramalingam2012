@@ -16,6 +16,7 @@ int main(void)
    char *s[] =
    {
       "Git tutorials",
+      "checking the diff"
       "zippyops"
    };
  
